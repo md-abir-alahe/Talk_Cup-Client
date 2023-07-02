@@ -1,0 +1,21 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.header-text {
+    margin: 0;
+}
+
+
+
+.header-container nav a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(84, 44, 121);
+}
+.header-container nav a:hover{
+    color: orangered;
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "id": "6425e124c225f4e0aabb4e98",
+      "picture": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=740&t=st=1680204322~exp=1680204922~hmac=1bf7b4d3e3741112e142286423c2561a3440e8c84acb0e526a1a85668bda51fc",
+      "name": "Sears Sandoval",
+      "title": "How to get your first job as a self-taught programmer",
+      "image": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?w=740&t=st=1680204628~exp=1680205228~hmac=d4fff0668e89d3e3babffa4e9c4df3b4407661c688f84aef219a4bcb403f863c",
+      "read": "05",
+      "published": "Mar 14 (14 days ago)"
+    },
+    {
+      "id": "6425e12454e684c443d338ef",
+      "picture": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=740&t=st=1680204496~exp=1680205096~hmac=a391fe29625d67bc47959fd865b352ea5209b2f1507850bb65f7a1110789d0ee",
+      "name": "Deloris Russell",
+      "title": "Why You Should Learn React",
+      "image": "https://img.freepik.com/free-photo/application-programming-interface-hologram_23-2149092254.jpg?w=740&t=st=1680204686~exp=1680205286~hmac=0d0439b03da9c478809222dc5025c2698b1f2be0a823ee6b78bb84ea5689c9ec",
+      "read": "10",
+      "published": "Mar 15 (13 days ago)"
+    },
+    {
+      "id": "6425e124af24ff735f91da43",
+      "picture": "https://img.freepik.com/free-photo/confident-bearded-macho-man-looks-pleased-has-friendly-kind-grin-face-wears-round-spectacles-pink-jumper_273609-51174.jpg?w=740&t=st=1680204560~exp=1680205160~hmac=cea8078dd10f93cc05e1f3765cc13a00fa903fb869170f1f7b2e170377cf002e",
+      "name": "Kelly Lewis",
+      "title": "Building Your First Web-Application",
+      "image": "https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-97395.jpg?w=740&t=st=1680204725~exp=1680205325~hmac=3b339317bf477cc719a305235ecfba391783caaa4bd3127d3c6ff1b67242519f",
+      "read": "15",
+      "published": "Mar 16 (12 days ago)"
+    },
+    {
+      "id": "6425e12451b19fc01cc0fc7d",
+      "picture": "https://img.freepik.com/free-photo/portrait-handsome-bearded-man-smiles-happily-front-shows-white-perfect-teeth-has-good-mood-feels-satisfied-dressed-basic-pink-t-shirt-poses-indoor_273609-53432.jpg?t=st=1680193934~exp=1680194534~hmac=d6afa9b48b554373b19bdf913e5682a1ed43b8be17c01cb01c522972c604ea20",
+      "name": "Consuelo Edwards",
+      "title": "How to Write Clean and Maintainable Code",
+      "image": "https://img.freepik.com/free-photo/develop-coding-web-design-coding-web-template_53876-132245.jpg?w=740&t=st=1680204740~exp=1680205340~hmac=82a5f8bd4330906300a332ef77c813dff7371f4da93a33a471dd0ad4350fa368",
+      "read": "12",
+      "published": "Mar 16 (12 days ago)"
+    }
+  ]

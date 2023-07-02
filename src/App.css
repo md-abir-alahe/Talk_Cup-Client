@@ -1,0 +1,37 @@
+#root {
+  margin: 0 auto;
+  max-width: 1280px;
+  position: relative;
+
+}
+
+
+.line{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+@media only screen and (max-width:720px) {
+  #root{
+   margin: 20px;
+  }
+}
+@media only screen and (max-width:1300px) {
+  #root{
+   margin: 20px;
+  }
+}

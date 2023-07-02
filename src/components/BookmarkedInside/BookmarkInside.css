@@ -1,0 +1,14 @@
+.bookmarked-title-container {
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 16px;
+  }
+  .bookmarked-title-container p {
+      margin: 0;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #111111;
+  }

@@ -1,0 +1,15 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 2.5fr 1.5fr;
+    position: relative;
+  }
+  .main-blog-container{
+    max-width: 720px;
+  }
+  
+@media only screen and (max-width:720px) {
+  .main-container{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}

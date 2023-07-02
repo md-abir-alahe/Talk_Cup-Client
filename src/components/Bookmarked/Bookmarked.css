@@ -1,0 +1,35 @@
+.bookmark-aside {
+  position: sticky;
+  top: 0;
+}
+
+.spent-time-container {
+  background: rgba(96, 71, 236, 0.1);
+  border: 1px solid #6047ec;
+  border-radius: 8px;
+  padding: 20px 50px;
+}
+.spent-time-container h4 {
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 160%;
+  color: #6047ec;
+}
+.bookmark-container {
+  margin-top: 25px;
+  padding: 30px;
+  background: rgba(17, 17, 17, 0.05);
+  border-radius: 8px;
+}
+.bookmark-container h4 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 160%;
+  color: #111111;
+}
+

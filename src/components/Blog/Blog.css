@@ -1,0 +1,69 @@
+.blog-container {
+  max-width: 740px;
+  border-bottom: 1px solid rgba(17, 17, 17, 0.1);
+  margin-bottom: 40px;
+  position: relative;
+}
+.blog-container-cover-image{
+  width: 100%;
+  border-radius: 8px;
+}
+.blog-header-row {
+  margin-top: 32px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.blog-header-row-img-name-pub img {
+  width: 64px;
+  height: 64px;
+  border-radius: 100%;
+  border: 2px solid silver;
+}
+
+.blog-header-row-img-name-pub {
+  display: flex;
+  gap: 20px;
+}
+.blog-header-row-name-pub h6 {
+  margin: 0px;
+  margin-bottom: 0px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 160%;
+  color: #111111;
+}
+.blog-header-row-name-pub p {
+  margin: 0px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 160%;
+  color: rgba(17, 17, 17, 0.6);
+}
+.bookmarked-btn {
+  background-color: white;
+  padding: 3px;
+}
+.blog-header-row-read-bookmarked {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.blog-header-row-read-bookmarked p {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: rgba(17, 17, 17, 0.6);
+}
+.blog-title {
+  max-width: 700px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 160%;
+  color: #111111;
+}
+.mark-as-read-btn{
+    margin-bottom: 32px;
+}
